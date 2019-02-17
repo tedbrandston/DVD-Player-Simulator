@@ -10,7 +10,7 @@ color[] colors = {
 color current_color = color(255, 0, 0);
 PImage logo;
 
-int SPEED = 6;
+int SPEED = 1;
 
 int vx, vy;
 int x_pos, y_pos;
